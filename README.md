@@ -1,4 +1,4 @@
-#Web Design Decal Midterm Project
+# Web Design Decal Midterm Project
 
 Figma Design: https://www.figma.com/file/RnfbSYfWnJ2yGWkSg5YKHn/MT-Design?node-id=0%3A1
 
