@@ -1,4 +1,5 @@
 # Web Design Decal Midterm Project
+https://amygee1209.github.io/donut/
 
 Figma Design: https://www.figma.com/file/RnfbSYfWnJ2yGWkSg5YKHn/MT-Design?node-id=0%3A1
 
