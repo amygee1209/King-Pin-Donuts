@@ -1,0 +1,21 @@
+@import "./nav.css";
+@import "./footer.css";
+
+.find-div {
+    height: 450px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.find-text {
+    width: 27%;
+}
+.find-text h2{
+    font-size: 22px;
+}
+.find-text h3{
+    font-size: 18px;
+    color: rgb(87, 86, 86)
+}

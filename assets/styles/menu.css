@@ -1,0 +1,46 @@
+@import "./nav.css";
+@import "./footer.css";
+
+.menu-div {
+    height: 450px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-name {
+    margin-left: 10px;
+}
+.menu-name h1{
+    font-size: 24px;
+    color: red;
+}
+.menu-name h2{
+    font-size: 18px;
+}
+.menu-name h3{
+    font-size: 15px;
+    color: rgb(57, 111, 211);
+}
+.menu-name p{
+    font-size: 12px;
+}
+.left-nav-bar {
+    width: 20%;
+    margin-top: 3px;
+}
+.right-menu-content{
+    width: 75%;
+    margin-top: 15px;
+}
+.left-nav-bar h4 {
+    font-size: 20px;
+}
+.left-nav-bar a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.left-nav-bar a:hover {
+  border-bottom: 3px solid rgb(0, 0, 0);
+}

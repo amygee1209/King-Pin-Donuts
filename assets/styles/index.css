@@ -1,0 +1,19 @@
+@import "./nav.css";
+@import "./footer.css";
+
+#image-display {
+    margin: 20px 0;
+    padding: 0;
+    background-color: rgb(240, 236, 238);
+}
+.donut-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.donut-item {
+    width: 33.3%;
+    opacity: 0.6;
+}
+.donut-item:hover {
+    opacity: 1;
+}

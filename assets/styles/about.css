@@ -1,0 +1,30 @@
+@import "./nav.css";
+@import "./footer.css";
+
+.story-text {
+    width: 65%;
+}
+.story-top h2 {
+    font-size: 30px;
+}
+.story-top {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+.about-icon {
+    height: 80px;
+    margin-right: 10px;
+}
+.story-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.about-img {
+    width: 30%;
+}
+.story-text p{
+    font-size: 17px;
+}
